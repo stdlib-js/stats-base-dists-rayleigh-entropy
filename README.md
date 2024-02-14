@@ -69,7 +69,7 @@ where `σ > 0` is the scale parameter.
 ## Usage
 
 ```javascript
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-entropy@esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-entropy@v0.2.0-esm/index.mjs';
 ```
 
 #### entropy( sigma )
@@ -119,7 +119,7 @@ var y = entropy( -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-entropy@esm/index.mjs';
+import entropy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-rayleigh-entropy@v0.2.0-esm/index.mjs';
 
 var sigma;
 var y;
