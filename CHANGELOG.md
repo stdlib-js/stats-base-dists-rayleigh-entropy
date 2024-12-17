@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-17)
+
+<section class="features">
+
+### Features
+
+-   [`4c46667`](https://github.com/stdlib-js/stdlib/commit/4c466676e6dc28dc112a042096f94286f2e599a5) - add C implementation of `stats/base/dists/rayleigh/entropy` [(#3956)](https://github.com/stdlib-js/stdlib/pull/3956)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3799](https://github.com/stdlib-js/stdlib/issues/3799)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`4c46667`](https://github.com/stdlib-js/stdlib/commit/4c466676e6dc28dc112a042096f94286f2e599a5) - **feat:** add C implementation of `stats/base/dists/rayleigh/entropy` [(#3956)](https://github.com/stdlib-js/stdlib/pull/3956) _(by Vinit Pandit, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vinit Pandit
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
