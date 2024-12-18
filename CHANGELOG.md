@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-17)
+## Unreleased (2024-12-18)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`4c46667`](https://github.com/stdlib-js/stdlib/commit/4c466676e6dc28dc112a042096f94286f2e599a5) - **feat:** add C implementation of `stats/base/dists/rayleigh/entropy` [(#3956)](https://github.com/stdlib-js/stdlib/pull/3956) _(by Vinit Pandit, Philipp Burckhardt)_
 
 </details>
